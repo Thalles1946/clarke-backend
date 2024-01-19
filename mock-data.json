@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "nome": "Empresa A",
+      "estado_origem": "São Paulo",
+      "custo_por_kWh": 0.25,
+      "limite_minimo_kWh": 100,
+      "numero_total_clientes": 5000,
+      "avaliacao_media_clientes": 4.2
+    },
+    {
+      "nome": "Empresa B",
+      "estado_origem": "Rio de Janeiro",
+      "custo_por_kWh": 0.22,
+      "limite_minimo_kWh": 150,
+      "numero_total_clientes": 7000,
+      "avaliacao_media_clientes": 4.5
+    },
+    {
+      "nome": "Empresa C",
+      "estado_origem": "Minas Gerais",
+      "custo_por_kWh": 0.2,
+      "limite_minimo_kWh": 120,
+      "numero_total_clientes": 6000,
+      "avaliacao_media_clientes": 4
+    },
+    {
+      "nome": "Empresa D",
+      "estado_origem": "Bahia",
+      "custo_por_kWh": 0.18,
+      "limite_minimo_kWh": 80,
+      "numero_total_clientes": 4500,
+      "avaliacao_media_clientes": 3.8
+    },
+    {
+      "nome": "Empresa E",
+      "estado_origem": "Pernambuco",
+      "custo_por_kWh": 0.21,
+      "limite_minimo_kWh": 130,
+      "numero_total_clientes": 5500,
+      "avaliacao_media_clientes": 4.1
+    },
+    {
+      "nome": "Empresa F",
+      "estado_origem": "Paraná",
+      "custo_por_kWh": 0.24,
+      "limite_minimo_kWh": 110,
+      "numero_total_clientes": 4800,
+      "avaliacao_media_clientes": 4.3
+    },
+    {
+      "nome": "Empresa G",
+      "estado_origem": "Ceará",
+      "custo_por_kWh": 0.19,
+      "limite_minimo_kWh": 90,
+      "numero_total_clientes": 4000,
+      "avaliacao_media_clientes": 4
+    },
+    {
+      "nome": "Empresa H",
+      "estado_origem": "Santa Catarina",
+      "custo_por_kWh": 0.23,
+      "limite_minimo_kWh": 160,
+      "numero_total_clientes": 8000,
+      "avaliacao_media_clientes": 4.6
+    },
+    {
+      "nome": "Empresa I",
+      "estado_origem": "Goiás",
+      "custo_por_kWh": 0.17,
+      "limite_minimo_kWh": 70,
+      "numero_total_clientes": 4200,
+      "avaliacao_media_clientes": 3.5
+    },
+    {
+      "nome": "Empresa J",
+      "estado_origem": "Amazonas",
+      "custo_por_kWh": 0.26,
+      "limite_minimo_kWh": 140,
+      "numero_total_clientes": 6000,
+      "avaliacao_media_clientes": 4.2
+    },
+    {
+      "nome": "Empresa K",
+      "estado_origem": "Espírito Santo",
+      "custo_por_kWh": 0.2,
+      "limite_minimo_kWh": 100,
+      "numero_total_clientes": 5500,
+      "avaliacao_media_clientes": 4
+    },
+    {
+      "nome": "Empresa L",
+      "estado_origem": "Alagoas",
+      "custo_por_kWh": 0.18,
+      "limite_minimo_kWh": 80,
+      "numero_total_clientes": 4000,
+      "avaliacao_media_clientes": 3.7
+    },
+    {
+      "nome": "Empresa M",
+      "estado_origem": "Acre",
+      "custo_por_kWh": 0.22,
+      "limite_minimo_kWh": 120,
+      "numero_total_clientes": 4800,
+      "avaliacao_media_clientes": 4.3
+    },
+    {
+      "nome": "Empresa N",
+      "estado_origem": "Mato Grosso",
+      "custo_por_kWh": 0.21,
+      "limite_minimo_kWh": 110,
+      "numero_total_clientes": 5000,
+      "avaliacao_media_clientes": 4.1
+    },
+    {
+      "nome": "Empresa O",
+      "estado_origem": "Rondônia",
+      "custo_por_kWh": 0.19,
+      "limite_minimo_kWh": 90,
+      "numero_total_clientes": 4200,
+      "avaliacao_media_clientes": 3.9
+    },
+    {
+      "nome": "Empresa P",
+      "estado_origem": "Tocantins",
+      "custo_por_kWh": 0.25,
+      "limite_minimo_kWh": 150,
+      "numero_total_clientes": 7000,
+      "avaliacao_media_clientes": 4.5
+    },
+    {
+      "nome": "Empresa Q",
+      "estado_origem": "Maranhão",
+      "custo_por_kWh": 0.16,
+      "limite_minimo_kWh": 60,
+      "numero_total_clientes": 3500,
+      "avaliacao_media_clientes": 3.4
+    },
+    {
+      "nome": "Empresa R",
+      "estado_origem": "Paraíba",
+      "custo_por_kWh": 0.24,
+      "limite_minimo_kWh": 130,
+      "numero_total_clientes": 6000,
+      "avaliacao_media_clientes": 4.2
+    },
+    {
+      "nome": "Empresa S",
+      "estado_origem": "Sergipe",
+      "custo_por_kWh": 0.2,
+      "limite_minimo_kWh": 100,
+      "numero_total_clientes": 4500,
+      "avaliacao_media_clientes": 3.8
+    },
+    {
+      "nome": "Empresa T",
+      "estado_origem": "Roraima",
+      "custo_por_kWh": 0.23,
+      "limite_minimo_kWh": 140,
+      "numero_total_clientes": 5500,
+      "avaliacao_media_clientes": 4.1
+    }
+  ]
+}
