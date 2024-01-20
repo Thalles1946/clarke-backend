@@ -58,8 +58,8 @@ def consulta_empresas(_,info,kWh):
 schema = make_executable_schema(type_defs, query)
 
 app = Flask(__name__)
+CORS(app)
 
-CORS(app, origins=['http://localhost:3000','https://master--sparkly-hotteok-8fd93a.netlify.app/'])
 
 explorer_html = ExplorerGraphiQL().html(None)
 
