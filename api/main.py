@@ -21,7 +21,7 @@ type_defs = """
 query = QueryType()
 
 
-nome_arquivo = './clarke-api/mock-data.json'
+nome_arquivo = './api/mock-data.json'
 
 def load_data(kWh):
     try:
@@ -61,9 +61,7 @@ app = Flask(__name__)
 
 CORS(app, origins=['http://localhost:3000','https://master--sparkly-hotteok-8fd93a.netlify.app/'])
 
-
 explorer_html = ExplorerGraphiQL().html(None)
-
 
 @app.route("/graphql", methods=["GET"])
 def graphql_explorer():
