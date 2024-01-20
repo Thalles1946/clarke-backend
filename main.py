@@ -1,6 +1,7 @@
 from ariadne import QueryType, graphql_sync, make_executable_schema
 from ariadne.explorer import ExplorerGraphiQL
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import json
 
 type_defs = """
@@ -57,6 +58,8 @@ def consulta_empresas(_,info,kWh):
 schema = make_executable_schema(type_defs, query)
 
 app = Flask(__name__)
+
+CORS(app, origins=['http://localhost:3000','https://master--sparkly-hotteok-8fd93a.netlify.app/'])
 
 
 explorer_html = ExplorerGraphiQL().html(None)
